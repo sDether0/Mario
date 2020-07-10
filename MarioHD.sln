@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30105.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarioHD", "MarioHD\MarioHD.csproj", "{E190244F-2DFA-4B6D-B19F-A65295CA5C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioEngine", "G:\MarioEngine\MarioEngine\MarioEngine.csproj", "{C10803E8-14AE-4530-9600-2DD3348AC09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E190244F-2DFA-4B6D-B19F-A65295CA5C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E190244F-2DFA-4B6D-B19F-A65295CA5C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E190244F-2DFA-4B6D-B19F-A65295CA5C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E190244F-2DFA-4B6D-B19F-A65295CA5C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10803E8-14AE-4530-9600-2DD3348AC09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10803E8-14AE-4530-9600-2DD3348AC09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10803E8-14AE-4530-9600-2DD3348AC09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10803E8-14AE-4530-9600-2DD3348AC09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {049B6EA8-C566-433D-B991-6647C458CD3D}
+	EndGlobalSection
+EndGlobal
